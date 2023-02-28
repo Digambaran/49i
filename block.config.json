@@ -1,0 +1,9 @@
+{
+  "name": "49i",
+  "type": "package",
+  "blockId": "WBNL0gdRTk7LNsXTGAl8s",
+  "source": {
+    "https": "https://github.com/Digambaran/49i",
+    "ssh": "git@github.com:Digambaran/49i.git"
+  }
+}
